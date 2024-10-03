@@ -1,0 +1,23 @@
+.pokimon-list-wrapper{
+    margin: 2rem auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.pokemon-wrapper{
+    justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.controls{
+    margin: 20px 10px;
+}
+
+.controls button{
+    padding:0.5rem 1rem 0.5rem 1rem;
+    margin: 1rem;
+
+}
